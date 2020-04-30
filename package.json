@@ -1,0 +1,27 @@
+{
+  "name": "markdown-it-vue-loader",
+  "version": "0.0.0",
+  "description": "Markdown-it-loader of vue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAlign/markdown-it-vue-loader.git"
+  },
+  "keywords": [
+    "markdown-it",
+    "markdown-it-loader",
+    "markdown-it-vue-loader",
+    "vue",
+    "loader",
+    "webpack"
+  ],
+  "author": "ReAlign",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReAlign/markdown-it-vue-loader/issues"
+  },
+  "homepage": "https://github.com/ReAlign/markdown-it-vue-loader#readme"
+}
